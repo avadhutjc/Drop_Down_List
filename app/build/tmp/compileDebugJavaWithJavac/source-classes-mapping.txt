@@ -1,0 +1,2 @@
+com/masai/dropdown/BuildConfig.java
+ com.masai.dropdown.BuildConfig
