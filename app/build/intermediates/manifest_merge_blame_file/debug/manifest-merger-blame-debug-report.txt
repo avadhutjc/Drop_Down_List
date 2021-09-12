@@ -6,41 +6,41 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="26"
-8-->/Users/shubhamsmac/DropDown2/app/src/main/AndroidManifest.xml
+8-->/Users/shubhamsmac/Documents/1.Unit 3 Regular/126-135-31Aug Instagram-Unit3 projects gitcloneapp/DropDown2/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->/Users/shubhamsmac/DropDown2/app/src/main/AndroidManifest.xml
+9-->/Users/shubhamsmac/Documents/1.Unit 3 Regular/126-135-31Aug Instagram-Unit3 projects gitcloneapp/DropDown2/app/src/main/AndroidManifest.xml
 10
 11    <application
-11-->/Users/shubhamsmac/DropDown2/app/src/main/AndroidManifest.xml:5:5-19:19
+11-->/Users/shubhamsmac/Documents/1.Unit 3 Regular/126-135-31Aug Instagram-Unit3 projects gitcloneapp/DropDown2/app/src/main/AndroidManifest.xml:5:5-19:19
 12        android:allowBackup="true"
-12-->/Users/shubhamsmac/DropDown2/app/src/main/AndroidManifest.xml:6:9-35
+12-->/Users/shubhamsmac/Documents/1.Unit 3 Regular/126-135-31Aug Instagram-Unit3 projects gitcloneapp/DropDown2/app/src/main/AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 13-->[androidx.core:core:1.6.0] /Users/shubhamsmac/.gradle/caches/transforms-2/files-2.1/abcbc87edcbba6f2b412c42ea0e44c80/core-1.6.0/AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:extractNativeLibs="false"
 16        android:icon="@mipmap/ic_launcher"
-16-->/Users/shubhamsmac/DropDown2/app/src/main/AndroidManifest.xml:7:9-43
+16-->/Users/shubhamsmac/Documents/1.Unit 3 Regular/126-135-31Aug Instagram-Unit3 projects gitcloneapp/DropDown2/app/src/main/AndroidManifest.xml:7:9-43
 17        android:label="@string/app_name"
-17-->/Users/shubhamsmac/DropDown2/app/src/main/AndroidManifest.xml:8:9-41
+17-->/Users/shubhamsmac/Documents/1.Unit 3 Regular/126-135-31Aug Instagram-Unit3 projects gitcloneapp/DropDown2/app/src/main/AndroidManifest.xml:8:9-41
 18        android:roundIcon="@mipmap/ic_launcher_round"
-18-->/Users/shubhamsmac/DropDown2/app/src/main/AndroidManifest.xml:9:9-54
+18-->/Users/shubhamsmac/Documents/1.Unit 3 Regular/126-135-31Aug Instagram-Unit3 projects gitcloneapp/DropDown2/app/src/main/AndroidManifest.xml:9:9-54
 19        android:supportsRtl="true"
-19-->/Users/shubhamsmac/DropDown2/app/src/main/AndroidManifest.xml:10:9-35
+19-->/Users/shubhamsmac/Documents/1.Unit 3 Regular/126-135-31Aug Instagram-Unit3 projects gitcloneapp/DropDown2/app/src/main/AndroidManifest.xml:10:9-35
 20        android:testOnly="true"
 21        android:theme="@style/Theme.DropDown" >
-21-->/Users/shubhamsmac/DropDown2/app/src/main/AndroidManifest.xml:11:9-46
+21-->/Users/shubhamsmac/Documents/1.Unit 3 Regular/126-135-31Aug Instagram-Unit3 projects gitcloneapp/DropDown2/app/src/main/AndroidManifest.xml:11:9-46
 22        <activity android:name="com.masai.dropdown.MainActivity" >
-22-->/Users/shubhamsmac/DropDown2/app/src/main/AndroidManifest.xml:12:9-18:20
-22-->/Users/shubhamsmac/DropDown2/app/src/main/AndroidManifest.xml:12:19-47
+22-->/Users/shubhamsmac/Documents/1.Unit 3 Regular/126-135-31Aug Instagram-Unit3 projects gitcloneapp/DropDown2/app/src/main/AndroidManifest.xml:12:9-18:20
+22-->/Users/shubhamsmac/Documents/1.Unit 3 Regular/126-135-31Aug Instagram-Unit3 projects gitcloneapp/DropDown2/app/src/main/AndroidManifest.xml:12:19-47
 23            <intent-filter>
-23-->/Users/shubhamsmac/DropDown2/app/src/main/AndroidManifest.xml:13:13-17:29
+23-->/Users/shubhamsmac/Documents/1.Unit 3 Regular/126-135-31Aug Instagram-Unit3 projects gitcloneapp/DropDown2/app/src/main/AndroidManifest.xml:13:13-17:29
 24                <action android:name="android.intent.action.MAIN" />
-24-->/Users/shubhamsmac/DropDown2/app/src/main/AndroidManifest.xml:14:17-69
-24-->/Users/shubhamsmac/DropDown2/app/src/main/AndroidManifest.xml:14:25-66
+24-->/Users/shubhamsmac/Documents/1.Unit 3 Regular/126-135-31Aug Instagram-Unit3 projects gitcloneapp/DropDown2/app/src/main/AndroidManifest.xml:14:17-69
+24-->/Users/shubhamsmac/Documents/1.Unit 3 Regular/126-135-31Aug Instagram-Unit3 projects gitcloneapp/DropDown2/app/src/main/AndroidManifest.xml:14:25-66
 25
 26                <category android:name="android.intent.category.LAUNCHER" />
-26-->/Users/shubhamsmac/DropDown2/app/src/main/AndroidManifest.xml:16:17-77
-26-->/Users/shubhamsmac/DropDown2/app/src/main/AndroidManifest.xml:16:27-74
+26-->/Users/shubhamsmac/Documents/1.Unit 3 Regular/126-135-31Aug Instagram-Unit3 projects gitcloneapp/DropDown2/app/src/main/AndroidManifest.xml:16:17-77
+26-->/Users/shubhamsmac/Documents/1.Unit 3 Regular/126-135-31Aug Instagram-Unit3 projects gitcloneapp/DropDown2/app/src/main/AndroidManifest.xml:16:27-74
 27            </intent-filter>
 28        </activity>
 29    </application>
